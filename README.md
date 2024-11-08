@@ -23,7 +23,7 @@ local id = img:load()
 ```
 
 # Documentation
-[RU](docs/ru/dev)
+[RU](docs/ru/dev.md)
 
 # Libraries used
 [lua-pngencoder](https://github.com/wyozi/lua-pngencoder) - for exporting to uncompressed **PNG** images  
