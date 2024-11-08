@@ -1,5 +1,7 @@
 # VCLibPNG
 
+![VCLibPNG](libpng/icon.png)
+
 This content pack for [Voxel Core](https://github.com/MihailRis/VoxelEngine-Cpp) provides functionality for loading and saving **PNG** images, and also provides basic functionality for working with raster images
 
 # Installation
