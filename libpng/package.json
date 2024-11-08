@@ -1,0 +1,7 @@
+{
+	"id": "libpng",
+	"title": "LibPNG",
+	"version": "1.0",
+	"author": "Onran",
+	"description": "a library that provides functionality for working with PNG files, as well as basic functionality for working with raster images"
+}
