@@ -6,4 +6,4 @@
 
 ## Модули
 
-[libpng:image](modules/image)
+[libpng:image](modules/image.md)
